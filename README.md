@@ -1,2 +1,2 @@
 # THE-Calculator
-simple calculator simulator in C++
+Simple calculator simulator in C++
