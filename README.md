@@ -1,2 +1,3 @@
 # THE-Calculator
 Simple calculator simulator in C++
+Each function will be responsible for one mathematical operation. The user must choose which operation to perform based on a menu option displayed. Once a valid operation is selected, the value is returned to main and the action performed, the program should again display the menu. This shall happen until the user selects the “quit” option. It is required to display a “welcome” message when the program starts and “exit” message when exiting. Both must be implemented as functions that return the messages as strings. If no correct menu option is selected the user shall be asked for a valid input until they do so. 
